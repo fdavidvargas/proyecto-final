@@ -6,6 +6,5 @@
     <li>Quienes Somos</li>
     <li>Acerca de</li>
     <li>Login</li>
-
 </ul>
 @endsection
